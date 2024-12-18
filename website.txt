@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<web.css>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Themed Portfolio</title>
+    <link rel="stylesheet" href="web.css">
+</web.css>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <h1>A SANTRA JASLINE</h1>
+            <p>Fresher | web Developer</p>
+            <nav>
+                <a href="#About">About</a>
+                <a href="#Education">Education</a>
+                <a href="#Resume">Resume</a>
+                <a href="#Certificate">Certificate</a>
+                <a href="#projects">Projects</a>
+                <a href="#skills">Skills</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- About  Section -->
+    <section id="about" class="container">
+        <h2>About Me</h2>
+        <p>
+            Hello! I’m <strong>A SANTRA JASLINE</strong>, Enthusiastic Computer Science student with a passion for technology and a solid foundation in IT principles.
+            Eager to leverage academic knowledge and hands-on project experience to contribute positively to a
+            dynamic IT team. Eager to learn and grow in a dynamic work environment while delivering innovative
+            solutions to real-world challenges.
+        </p>
+    </section>
+
+    <!-- Education Section -->
+    <section id="Education" class="container">
+        <h2>Education</h2>
+        <div class="Education">
+            <h2>School</h2> 
+            <p>Mary Ann Matriculation Higher Secondary School (2021)</p>
+        
+        <h2>College</h2>
+        <p>Lady Doak College (2021-2024)</p>
+        
+    </section>
+     
+    <!-- Resume  Section -->
+    <section id="Resume" class="container">
+        <h2>Resume</h2>
+        <p>
+            <a href="https://drive.google.com/file/d/1lERUrmaN8pY6HrFiSUwLQep_dCTsDZsM/view?usp=sharing" target="_blank">Santra Jasline Resume</a>
+        </p>
+    </section>    
+
+    <!-- Certificate Section -->
+    <section id="Certificate" class="container">
+        <h2>Certificate</h2>
+        <div class="Certificate">
+            
+        <h3>𝚄𝚍𝚎𝚖𝚢 </h3>
+        <p>𝖡𝗎𝗂𝗅𝖽 𝖱𝖾𝗌𝗉𝗈𝗇𝗌𝗂𝗏𝖾 𝖱𝖾𝖺𝗅-𝖶𝗈𝗋𝗅𝖽 𝖶𝖾𝖻𝗌𝗂𝗍𝖾𝗌 𝖶𝗂𝗍𝗁 𝖧𝖳𝖬𝖫 𝖺𝗇𝖽 𝖢𝖲𝖲</p>
+        </div>
+        <h3>𝚄𝚍𝚎𝚖𝚢 </h3>
+        <p>𝖯𝗒𝗍𝗁𝗈𝗇 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋</p>
+        </div>
+        <h3>𝙼𝚊𝚝𝚑𝚠𝚘𝚛𝚔𝚜 </h3>
+        <p>𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖵𝗂𝗌𝗂𝗈𝗇 𝖮𝗇𝗋𝖺𝗆𝗉</p>
+        </div>
+        <h3>𝖢𝖾𝗅𝗈𝗇𝗂𝗌  </h3>
+        <p>𝙲𝚎𝚕𝚘𝚗𝚒𝚜 𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚗𝚜</p>
+        </div>
+        <h3> 𝖦𝗋𝖾𝖺𝗍 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀 </h3>
+        <p>𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝚝𝚘 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚕 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎</p>
+        </div>
+        <h3>𝖦𝗋𝖾𝖺𝗍 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀  </h3>
+        <p>𝙵𝚛𝚘𝚗𝚝 𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝-𝙲𝚂𝚂</p>
+        </div>
+        <h3>𝖦𝗋𝖾𝖺𝗍 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀  </h3>
+        <p>𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</p>
+        </div>
+        <h3>𝖳𝖺𝗋𝖼𝗂𝗇 𝖱𝗈𝖻𝗈𝗍𝗂𝖼𝗌 𝖫𝖫𝖯  </h3>
+        <p>𝙼𝚒𝚌𝚛𝚘𝚜𝚘𝚏𝚝 𝙰𝚣𝚞𝚛𝚎 𝙲𝚕𝚘𝚞𝚍</p>
+        </div>
+
+     </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="container">
+        <h2>Projects</h2>
+        <div class="project">
+        <h3>Project 1: Portfolio Website</h3>
+        <p>A responsive personal portfolio site built with HTML and CSS.</p>
+        <a href="https://github.com/yourusername/portfolio" target="_blank">GitHub Repo</a>
+        </div>
+        <div class="project">
+        <h3>Project 2: Blog Platform</h3>
+        <p>A full-stack blogging platform using React and Node.js.</p>
+        <a href="https://github.com/yourusername/blog" target="_blank">GitHub Repo</a>
+        </div>
+        <div class="project">
+        <h3>Project 3: API Service</h3>
+        <p>Developed a RESTful API using Express.js and MongoDB.</p>
+        <a href="https://github.com/yourusername/api-service" target="_blank">GitHub Repo</a>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="container">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>React, Node.js, Express</li>
+            <li>MongoDB, SQL</li>
+            <li>Git, GitHub</li>
+            <li>Responsive Web Design</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="container">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="santrajasline24@gmail.com">santrajasline24@gmail.com</a></p>
+        <p>Email: <a href="Mobile Number"></a>9150349664</p>
+        <p>GitHub: <a href="https://github.com/santrajasline" target="_blank">https://github.com/santrajasline</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/santra-jasline-bba14b2a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">https://www.linkedin.com/in/santra-jasline-bba14b2a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a></p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 A Santra Jasline | <a href="https://github.com/yourusername" target="_blank">GitHub</a></p>
+    </footer>
+</body>
+</html>
